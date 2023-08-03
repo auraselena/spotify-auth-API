@@ -1,0 +1,15 @@
+{
+  "songs": [
+    { "url": "https://i.scdn.co/image/ab67616d0000b2730158be512bb5df4959637a17", "genre": "", "title": "Pemeran Utama", "artist": "Raisa" },
+    { "url": "https://i.scdn.co/image/ab67616d0000b273ca0bf7a337ed7a8bcc34948e", "genre": "K-Pop", "title": "ROVER", "artist": "KAI" },
+    { "url": "https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0", "genre": "", "title": "Wherever You Are", "artist": "ONE OK ROCK" },
+    { "url": "https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be", "genre": "K-Pop", "title": "Psycho", "artist": "Red Velvet" },
+    { "url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481", "genre": "", "title": "Speak Now", "artist": "Taylor Swift" }
+  ],
+  "family": [
+    { "id": 1, "name": "Selena", "gender": "female", "role": "child" },
+    { "id": 2, "name": "John Doe", "gender": "male", "role": "dad" },
+    { "id": 3, "name": "Jane Smith", "gender": "female", "role": "mom" },
+    { "id": 4, "name": "Kucil", "gender": "male", "role": "cat" }
+  ]
+}
