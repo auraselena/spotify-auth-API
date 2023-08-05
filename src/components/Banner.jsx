@@ -31,10 +31,10 @@ const Banner = (props) => {
         <img className="badder" src={props.url} alt="" />
         <div className="side-banner"></div>
       </div>
-      <div>
+      {/* <div>
         <h1 className="family">Soundify family member:</h1>
         <div className="member">{showFamily()}</div>
-      </div>
+      </div> */}
     </>
   );
 };
